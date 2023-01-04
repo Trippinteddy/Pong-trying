@@ -84,16 +84,16 @@ function gameProcess() {
   //EVENTS
   // this is a non-persistant event so it only needs to be checked
   if (ballHitWall.state === true) {
-    wallSound.play();
+    //wallSound.play();
   }
   if (ballHitPaddle.state) {
-    paddleSound.play();
+    //paddleSound.play();
   }
   if (leftScoreHit.state) {
-    scoreSound.play();
+    //scoreSound.play();
   }
   if (rightScoreHit.state) {
-    scoreSound.play();
+    //scoreSound.play();
   }
   //this is a persistant event so it must be checked and checked if it changed
   //if (rightScoreHigher.state && rightScoreHigher.changed) {
