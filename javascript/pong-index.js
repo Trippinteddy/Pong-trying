@@ -76,7 +76,7 @@ function gameProcess() {
 
   ambientSound.player.playbackRate = scalerange(
     Math.abs(ball.direction.x),
-    0,
+    5,
     5,
     1,
     3
