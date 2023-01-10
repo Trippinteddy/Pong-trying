@@ -65,7 +65,7 @@ ambientSound.play();
 
 //RUNNING PROCESSES (updated every frame of the game)
 function gameProcess() {
-  //ambient sound
+  ambient sound
   if (rightScore > leftScore) {
     rightScoreHigher.turnOn();
     leftScoreHigher.turnOff();
@@ -104,7 +104,7 @@ function gameProcess() {
     //villageMusic.stop();
   //}
   //if (leftScoreHigher.state && leftScoreHigher.changed) {
-    //villageMusic.play();
+    villageMusic.play();
     //adventureMusic.stop();
   //}
 }
