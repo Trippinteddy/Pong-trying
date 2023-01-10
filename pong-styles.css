@@ -13,8 +13,8 @@ body {
   margin: 10px;
   border: 5px solid black;
   left: 0;
-  background-image: url("https://preview.redd.it/48sv44jin6m71.gif?format=png8&s=1025ffd848b7cb9cd44b43327d8a9055a977560c");
   position: absolute;
+  background-image: url("https://preview.redd.it/48sv44jin6m71.gif?format=png8&s=1025ffd848b7cb9cd44b43327d8a9055a977560c");
   background-size: cover;
 }
 
