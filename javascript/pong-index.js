@@ -83,6 +83,7 @@ function gameProcess() {
     3
   );
   */
+  
   //EVENTS
   // this is a non-persistant event so it only needs to be checked
   if (ballHitWall.state === true) {
@@ -103,7 +104,7 @@ function gameProcess() {
     //villageMusic.stop();
   //}
   //if (leftScoreHigher.state && leftScoreHigher.changed) {
-    villageMusic.play();
+    //villageMusic.play();
     //adventureMusic.stop();
   //}
 }
