@@ -10,11 +10,11 @@ body {
 }
 
 #game {
-  margin: 250px;
-  border: 5px solid black;
+  margin: 200px;
+  border: 2px solid black;
   left: 0;
   position: absolute;
-  background-image: url("https://66.media.tumblr.com/8b48654a939dee2b22852633985f86ab/58ed66cee2498e6e-83/s500x750/9c1220c902d5543b242c952ec209fd58085670f6.gif");
+  background-image: url("https://preview.redd.it/48sv44jin6m71.gif?format=png8&s=1025ffd848b7cb9cd44b43327d8a9055a977560c");
   background-size: cover;
 }
 
